@@ -1,0 +1,5 @@
+{
+    "solidity-va.preview.markdown": true,
+    "solidity-va.debug.parser.showExceptions": true,
+    "solidity-va.preview.dot": true
+}
